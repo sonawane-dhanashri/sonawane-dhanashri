@@ -32,4 +32,4 @@ I build backend services and GenAI applications with Python, with 1.5 years of h
 
 ### 📫 Let's Connect
 
-[LinkedIn](www.linkedin.com/in/dhanashri-sunil-sonawane) · ✉️ dhanashrisunilsonawane147@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dhanashri-sunil-sonawane/) · ✉️ dhanashrisunilsonawane147@gmail.com
