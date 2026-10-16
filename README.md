@@ -18,7 +18,7 @@ I build backend services and GenAI applications with Python, with 1.5 years of h
 ### 🚀 What I'm Working On
 
 - **Knowledge Assistant API** *(in progress)*: a production-style FastAPI backend with RAG, citations, AI agents, and evaluation
-- **[Zero to Backend & AI Engineer](https://github.com/sonawane-dhanashri/zero-to-backend-ai-engineer)**: a structured, open learning path from Python fundamentals to GenAI engineering, covering DSA, SQL, system design, and more
+- **[python-backend-ai-roadmap](https://github.com/sonawane-dhanashri/python-backend-ai-roadmap)**: a structured, open learning path from Python fundamentals to GenAI engineering, covering DSA, SQL, system design, and more
 
 ---
 
