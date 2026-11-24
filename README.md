@@ -2,6 +2,8 @@
 
 **Software Engineer · Python Backend & GenAI** · Pune, India
 
+🌐 **Portfolio:** [sonawane-dhanashri.github.io](https://sonawane-dhanashri.github.io)
+
 I build backend services and GenAI applications with Python, with 1.5 years of hands-on experience delivering LLM-powered features. I care about clean APIs, reliable systems, and AI features that are measurable, not just impressive demos.
 
 ---
@@ -32,4 +34,4 @@ I build backend services and GenAI applications with Python, with 1.5 years of h
 
 ### 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/dhanashri-sunil-sonawane/) · ✉️ dhanashrisunilsonawane147@gmail.com
+[Portfolio](https://sonawane-dhanashri.github.io) · [LinkedIn](https://www.linkedin.com/in/dhanashri-sunil-sonawane/) · ✉️ dhanashrisunilsonawane147@gmail.com
